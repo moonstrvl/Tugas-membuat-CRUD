@@ -3,28 +3,28 @@
 # NIM: 312410352
 # KELAS: TI.24.CA.1
 # CODE
-# DB.PHP
+DB.PHP
 <img width="500" height="350" alt="1" src="https://github.com/user-attachments/assets/eb859aff-6d8e-4945-b174-bf4cf0909cf2" />
 
-# EIDT_AKSI.PHP
-<img width="946" height="1414" alt="2" src="https://github.com/user-attachments/assets/4a721585-e5b2-4329-800e-04dc5b055875" />
+EIDT_AKSI.PHP
+<img width="500" height="350" alt="2" src="https://github.com/user-attachments/assets/4a721585-e5b2-4329-800e-04dc5b055875" />
 
-# EDIT.PHP
+EDIT.PHP
 <img width="1998" height="938" alt="3" src="https://github.com/user-attachments/assets/d5021774-d658-49d9-9166-430e422ff79d" />
 
-# HAPUS.PHP
+HAPUS.PHP
 <img width="1084" height="530" alt="4" src="https://github.com/user-attachments/assets/4ba59b0b-091a-4456-8a3b-3a63b3723f95" />
 
-# INDEX.PHP
+INDEX.PHP
 <img width="1666" height="2468" alt="5" src="https://github.com/user-attachments/assets/7a44f0ef-5d1a-46ed-869c-b2e3ddc9f708" />
 
-# TAMBAH_AKSI.PHP
+TAMBAH_AKSI.PHP
 <img width="2012" height="1108" alt="6" src="https://github.com/user-attachments/assets/5bdf1e38-43de-4595-8a9f-134a921d36b5" />
 
-# TAMBAH.PHP
+TAMBAH.PHP
 <img width="1430" height="972" alt="7" src="https://github.com/user-attachments/assets/38a697d4-e492-40a0-8801-627d0f3ed914" />
 
-# SQL PHPMYADMIN
+SQL PHPMYADMIN
 <img width="894" height="672" alt="code14" src="https://github.com/user-attachments/assets/e79e2b11-4799-4bff-be26-3ac7997b1dc8" />
 
 
