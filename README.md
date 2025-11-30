@@ -37,21 +37,22 @@ TAMBAH_AKSI.PHP
 
 TAMBAH.PHP
 
+<img width="358" height="243" alt="7" src="https://github.com/user-attachments/assets/f43705c7-b21e-4b42-bc9b-7ac106b27b2a" />
 
 
 
 SQL PHPMYADMIN
 
-
+<img width="224" height="168" alt="code14" src="https://github.com/user-attachments/assets/2f1c3464-45d5-40c4-a197-bc9e5bf5e9ee" />
 
 
 
 # OUTPUT
 TAMBAH BARANG
 
-<img width="600" height="428" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/29bf1e08-70a3-4989-b12e-79e91563811b" />
+<img width="300" height="214" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/29bf1e08-70a3-4989-b12e-79e91563811b" />
 
 
 HASIL
 
-<img width="800" height="450" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/95b30b22-aa10-4b76-981f-e3798ba82f6e" />
+<img width="400" height="225" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/95b30b22-aa10-4b76-981f-e3798ba82f6e" />
