@@ -3,10 +3,13 @@
 # NIM: 312410352
 # KELAS: TI.24.CA.1
 # CODE
+
 DB.PHP
+
 <img width="500" height="350" alt="1" src="https://github.com/user-attachments/assets/eb859aff-6d8e-4945-b174-bf4cf0909cf2" />
 
 EIDT_AKSI.PHP
+
 <img width="450" height="600" alt="2" src="https://github.com/user-attachments/assets/4a721585-e5b2-4329-800e-04dc5b055875" />
 
 EDIT.PHP
