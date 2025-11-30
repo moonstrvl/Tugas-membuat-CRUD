@@ -25,7 +25,7 @@ HAPUS.PHP
 
 INDEX.PHP
 
-<img width="700" height="400" alt="5" src="https://github.com/user-attachments/assets/ebac2814-3595-4352-bb8f-5901c2106a83" />
+<img width="800" height="450" alt="5" src="https://github.com/user-attachments/assets/ebac2814-3595-4352-bb8f-5901c2106a83" />
 
 
 TAMBAH_AKSI.PHP
