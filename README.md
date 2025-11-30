@@ -31,17 +31,18 @@ INDEX.PHP
 
 TAMBAH_AKSI.PHP
 
-<img width="1000" height="735" alt="6" src="https://github.com/user-attachments/assets/f1dbd82e-2dc6-4f64-a1ad-33a212b2e939" />
+<img width="503" height="277" alt="6" src="https://github.com/user-attachments/assets/9e78d936-6aa4-4864-ac36-dd48febbfa18" />
+
 
 
 TAMBAH.PHP
 
-<img width="700" height="491" alt="7" src="https://github.com/user-attachments/assets/3091abc2-e23f-4038-9228-b6ec4a770a66" />
+
 
 
 SQL PHPMYADMIN
 
-<img width="700" height="490" alt="1" src="https://github.com/user-attachments/assets/e79e2b11-4799-4bff-be26-3ac9791bd1c8" />
+
 
 
 
