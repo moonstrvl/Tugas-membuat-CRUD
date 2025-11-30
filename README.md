@@ -15,7 +15,7 @@ EDIT_AKSI.PHP
 
 
 EDIT.PHP
-<img width="1000" height="1476" alt="3" src="https://github.com/user-attachments/assets/777d8dcf-506c-46ed-ba9e-64c54ab71b8d" />
+<img width="500" height="738" alt="3" src="https://github.com/user-attachments/assets/777d8dcf-506c-46ed-ba9e-64c54ab71b8d" />
 
 
 HAPUS.PHP
@@ -25,7 +25,7 @@ HAPUS.PHP
 
 INDEX.PHP
 
-<img width="1000" height="562" alt="5" src="https://github.com/user-attachments/assets/ebac2814-3595-4352-bb8f-5901c2106a83" />
+<img width="833" height="1234" alt="5" src="https://github.com/user-attachments/assets/87212fd9-67c8-4b50-8926-b3675112cce5" />
 
 
 TAMBAH_AKSI.PHP
