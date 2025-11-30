@@ -7,7 +7,7 @@ DB.PHP
 <img width="500" height="350" alt="1" src="https://github.com/user-attachments/assets/eb859aff-6d8e-4945-b174-bf4cf0909cf2" />
 
 EIDT_AKSI.PHP
-<img width="500" height="350" alt="2" src="https://github.com/user-attachments/assets/4a721585-e5b2-4329-800e-04dc5b055875" />
+<img width="450" height="600" alt="2" src="https://github.com/user-attachments/assets/4a721585-e5b2-4329-800e-04dc5b055875" />
 
 EDIT.PHP
 <img width="1998" height="938" alt="3" src="https://github.com/user-attachments/assets/d5021774-d658-49d9-9166-430e422ff79d" />
