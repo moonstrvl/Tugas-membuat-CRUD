@@ -4,28 +4,31 @@
 # KELAS: TI.24.CA.1
 # CODE
 
-# EIDT_AKSI.PHP
-<img width="500" height="350" alt="1" src="https://github.com/user-attachments/assets/eb859aff-6d8e-4955-b174-bf4cf0099c2f" />
+EIDT_AKSI.PHP
+<img width="500" height="350" alt="1" src="https://github.com/user-attachments/assets/eb6f6682-fa24-41f7-9130-9e9c0bb76a27" />
 
-# EDIIT.PHP
-<img width="450" height="680" alt="1" src="https://github.com/user-attachments/assets/4a721585-e5b2-4329-880e-04dc5b058575" />
+EDIIT.PHP
+<img width="450" height="680" alt="2" src="https://github.com/user-attachments/assets/d1b7aaf1-7afd-4eef-b003-57c4d83bb078" />
 
-# EDIT.PHP
-<img width="1000" height="1476" alt="1" src="https://github.com/user-attachments/assets/d5021774-d658-49d9-9166-43e422ff79d9" />
+EDIT.PHP
+<img width="1998" height="938" alt="3" src="https://github.com/user-attachments/assets/777d8dcf-506c-46ed-ba9e-64c54ab71b8d" />
 
-# HAPUS.PHP
-<img width="800" height="420" alt="1" src="https://github.com/user-attachments/assets/4ba59b0b-091a-4456-83a3-36a3b3723f95" />
 
-# INDEX.PHP
-<img width="800" height="563" alt="1" src="https://github.com/user-attachments/assets/7a44f0f4-5d1a-46ed-869c-b2e3ddc9f708" />
+HAPUS.PHP
+<img width="1084" height="530" alt="4" src="https://github.com/user-attachments/assets/d5f8dc95-d3dd-4b62-bd2c-5d6c0f7a8666" />
 
-# TAMBAH_AKSI.PHP
-<img width="1000" height="735" alt="1" src="https://github.com/user-attachments/assets/5bf1e38e-d492-4595-83a9-f134921d36b5" />
+INDEX.PHP
+<img width="1666" height="2468" alt="5" src="https://github.com/user-attachments/assets/ebac2814-3595-4352-bb8f-5901c2106a83" />
 
-# TAMBAH.PHP
-<img width="700" height="491" alt="1" src="https://github.com/user-attachments/assets/38a697d4-e692-400a-8801-6270df3ed914" />
 
-# SQL PHPMYADMIN
+TAMBAH_AKSI.PHP
+<img width="2012" height="1108" alt="6" src="https://github.com/user-attachments/assets/f1dbd82e-2dc6-4f64-a1ad-33a212b2e939" />
+
+TAMBAH.PHP
+<img width="1430" height="972" alt="7" src="https://github.com/user-attachments/assets/3091abc2-e23f-4038-9228-b6ec4a770a66" />
+
+
+SQL PHPMYADMIN
 <img width="700" height="490" alt="1" src="https://github.com/user-attachments/assets/e79e2b11-4799-4bff-be26-3ac9791bd1c8" />
 
 
