@@ -4,12 +4,12 @@
 # KELAS: TI.24.CA.1
 # CODE
 
-EIDT_AKSI.PHP
+DB.PHP
 
 <img width="500" height="350" alt="1" src="https://github.com/user-attachments/assets/eb6f6682-fa24-41f7-9130-9e9c0bb76a27" />
 
 
-EDIIT.PHP
+EDIT_AKSI.PHP
 
 <img width="450" height="680" alt="2" src="https://github.com/user-attachments/assets/d1b7aaf1-7afd-4eef-b003-57c4d83bb078" />
 
@@ -25,7 +25,7 @@ HAPUS.PHP
 
 INDEX.PHP
 
-<img width="800" height="563" alt="5" src="https://github.com/user-attachments/assets/ebac2814-3595-4352-bb8f-5901c2106a83" />
+<img width="700" height="400" alt="5" src="https://github.com/user-attachments/assets/ebac2814-3595-4352-bb8f-5901c2106a83" />
 
 
 TAMBAH_AKSI.PHP
